@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
