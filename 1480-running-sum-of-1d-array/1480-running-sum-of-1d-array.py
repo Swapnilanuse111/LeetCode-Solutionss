@@ -6,4 +6,4 @@ class Solution(object):
             total=total+i
             result.append(total)
         return result
-        
+            
