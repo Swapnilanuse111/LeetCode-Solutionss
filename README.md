@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
