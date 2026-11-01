@@ -1,9 +1,8 @@
-class Solution(object):
-    def runningSum(self, nums):
+class Solution:
+    def runningSum(self, nums: list[int]) -> list[int]:
         total=0
-        result=[]
+        ans=[]
         for i in nums:
             total=total+i
-            result.append(total)
-        return result
-            
+            ans.append(total)
+        return ans
