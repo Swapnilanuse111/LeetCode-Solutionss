@@ -6,3 +6,6 @@ class Solution:
         for i in nums:
             ans.append(i)
         return ans
+
+            
+        
