@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1929-concatenation-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1929-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnilanuse111/LeetCode-Solutionss/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
