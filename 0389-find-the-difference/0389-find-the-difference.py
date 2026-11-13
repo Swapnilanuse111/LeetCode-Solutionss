@@ -1,14 +1,8 @@
-
 class Solution:
-    def findTheDifference(self, s, t):
-        s = sorted(s)
-        t = sorted(t)
+    def findTheDifference(self, s: str, t: str) -> str:
+        result = 0
 
-        left = 0
+        for char in s + t:
+            result ^= ord(char)
 
-        while left < len(s):
-            if s[left] != t[left]:
-                return t[left]
-            left += 1
-
-        return t[left]
+        return chr(result)
